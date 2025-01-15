@@ -1,8 +1,9 @@
 ## Why
 
-A Demo showing the use of [Web Authentication API](https://developer.mozilla.org/en-US/docs/Web/API/Web_Authentication_API)
+A Demo showcasing the use of [Web Authentication API](https://developer.mozilla.org/en-US/docs/Web/API/Web_Authentication_API)
 
-This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-app`](https://nextjs.org/docs/app/api-reference/cli/create-next-app).
+![CleanShot 2025-01-15 at 19 15 21](https://github.com/user-attachments/assets/9ce32305-4425-4bfa-9c59-ba1ff5ca5cff)
+
 
 ## Getting Started
 
